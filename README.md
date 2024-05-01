@@ -21,5 +21,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Bomin's GitHub stats](https://github-readme-stats.vercel.app/api?username=pingowl&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+<br><br><br><br><br><br><br><br><br><br><br><br><br>
+[![Bomin's GitHub stats](https://github-readme-stats.vercel.app/api?username=pingowl&theme=shadow_green)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pingowl&layout=compact)
