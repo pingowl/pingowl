@@ -1,6 +1,12 @@
 ### Hi there 👋
 
 <!--
+### ✅ Techs I'm Familiar With 
+### ✅ Techs Once I've Used With 
+-->
+
+
+<!--
 **pingowl/pingowl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +20,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Bomin's GitHub stats](https://github-readme-stats.vercel.app/api?username=pingowl&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pingowl&layout=compact)
